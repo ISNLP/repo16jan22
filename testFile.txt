@@ -3,3 +3,5 @@ Add line2
 Add line3
 Edit while on Branch1
 Edit done while on Branch2
+Changes made on Master after Branch2 was made to check conflict.
+
