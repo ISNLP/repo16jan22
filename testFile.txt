@@ -2,3 +2,4 @@ Test github
 Add line2
 Add line3
 Edit while on Branch1
+Changes made on Master after Branch2 was made to check conflict.
